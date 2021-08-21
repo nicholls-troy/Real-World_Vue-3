@@ -8,7 +8,7 @@
   </div>
 </template>
 
-<style>
+<style> /* Global styles applied to entire app */
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -28,5 +28,9 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+
+h4 {
+  font-size: 20px;
 }
 </style>
